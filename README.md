@@ -51,7 +51,7 @@ cd Weather-app-react
 ``` 
 4. Open `index.html` in your browser to view the project.
 5. Run the project using following command
-   ```sh 
+```sh 
 npm run dev
 ```
 
