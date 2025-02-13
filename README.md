@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 
 # Weather App
 
-Welcome to the Weather App repository! This project is a web application that provides weather information about any location. It utilizes HTML, CSS, and react to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
+Welcome to the Weather-app-react repository! This project is a web application that provides weather information about any location. It utilizes HTML, CSS, and react to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
 
 
 ### Technologies Used 
@@ -50,7 +50,7 @@ cd Weather-app-react
 'API_KEY': "Your-API-key",
 ``` 
 4. Open `index.html` in your browser to view the project.
-5. Run the project using following command
+5. Run the app using following command
 ```sh 
 npm run dev
 ```
