@@ -47,7 +47,12 @@ cd Weather-app-react
 ```
 3. Change API key which conatin in src/WeatherImg.js
 ```javascript
-'API_KEY': "Your-API-key",
+'API_KEY': "Your-API-key"
+```
+4. Install Meterial UI and Icons using following commands
+```sh
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
 ``` 
 4. Open `index.html` in your browser to view the project.
 5. Run the app using following command
